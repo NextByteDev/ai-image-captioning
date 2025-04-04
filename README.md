@@ -1,1 +1,1 @@
-# image_captioning
+# ai-image-captioning
