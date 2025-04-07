@@ -80,9 +80,3 @@ Powered by Hugging Face + Streamlit
 ## 📄 License
 
 MIT License
-
-```bash
-
----
-
-
