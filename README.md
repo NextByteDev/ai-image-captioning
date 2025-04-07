@@ -25,7 +25,7 @@ You can also download all the captions as a `.txt` file.
 
 | Input Image | Generated Caption |
 |-------------|-------------------|
-| ![example](example.jpg) | A cat sitting on a windowsill looking outside. |
+| ![example](example.png) | a bird sitting on a branch with flowers. |
 
 ---
 
@@ -85,16 +85,4 @@ MIT License
 
 ---
 
-### ✅ Final Touches
-
-1. Add a **preview screenshot** of the app running (save it as `preview.png`)
-2. If you want, add a sample image like `example.jpg` in the README table
-3. Add a `requirements.txt` file:
-
-```txt
-transformers
-torch
-streamlit
-Pillow
-```
 
