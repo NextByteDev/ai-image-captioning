@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ## 🙌 Credits
 
-Created by DeepSynthAI
+Created by NextByteDev
 Powered by Hugging Face + Streamlit
 
 ## 📄 License
