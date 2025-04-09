@@ -34,7 +34,7 @@ You can also download all the captions as a `.txt` file.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-image-captioning.git
+git clone https://github.com/your-username/ai-image-captioning.git
 cd ai-image-captioning
 ```
 ### 2. Set up the environment
