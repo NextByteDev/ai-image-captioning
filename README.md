@@ -34,7 +34,7 @@ You can also download all the captions as a `.txt` file.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-image-captioning.git
+git clone https://github.com/your-username/ai-image-captioning.git
 cd ai-image-captioning
 ```
 ### 2. Set up the environment
@@ -71,3 +71,15 @@ pip install -r requirements.txt
 ## 🤖 Model Used
 
 [BLIP: Bootstrapping Language-Image Pre-training](https://huggingface.co/Salesforce/blip-image-captioning-base)
+<<<<<<< HEAD
+=======
+
+## 🙌 Credits
+
+Created by NextByteDev
+Powered by Hugging Face + Streamlit
+
+## 📄 License
+
+MIT License
+>>>>>>> 072b44bfa0a53222f8aed6f51807581e7083810d
