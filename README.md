@@ -79,7 +79,5 @@ pip install -r requirements.txt
 Created by NextByteDev
 Powered by Hugging Face + Streamlit
 
-## 📄 License
-
 MIT License
 >>>>>>> 072b44bfa0a53222f8aed6f51807581e7083810d
