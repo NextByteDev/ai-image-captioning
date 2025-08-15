@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 [BLIP: Bootstrapping Language-Image Pre-training](https://huggingface.co/Salesforce/blip-image-captioning-base)
 
-=======
+---
 
 ## 🙌 Credits
 
