@@ -37,6 +37,8 @@ You can also download all the captions as a `.txt` file.
 git clone https://github.com/your-username/ai-image-captioning.git
 cd ai-image-captioning
 ```
+---
+
 ### 2. Set up the environment
 
 ```bash
@@ -46,12 +48,14 @@ venv\Scripts\activate  # On Windows
 
 pip install -r requirements.txt
 ```
+---
 
 ### 3. Start the app
 
 ```bash
 streamlit run app.py
 ```
+---
 
 ## 📦 Dependencies
 
@@ -67,6 +71,7 @@ Install them all with:
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ## 🤖 Model Used
 
